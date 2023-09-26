@@ -1,2 +1,0 @@
-int64 crust_id
-string ingredient

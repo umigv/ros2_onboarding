@@ -1,2 +1,0 @@
-int64 toppings_id
-string ingredient
